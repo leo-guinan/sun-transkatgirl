@@ -1,0 +1,382 @@
+{
+  "id": "sun-transkatgirl",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@transkatgirl Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_05130869afde",
+    "display_name": "transkatgirl",
+    "user_id": "@transkatgirl",
+    "description": "Community Archive-derived proof-of-search sun for @transkatgirl.",
+    "document_count": 49639,
+    "word_count": 834036,
+    "active_days": 1754,
+    "emissions": [
+      "Don",
+      "Going",
+      "Time",
+      "Now",
+      "Think",
+      "Really"
+    ],
+    "generated_at": "2026-06-28T22:13:42.102574+00:00",
+    "color": "#f59e0b",
+    "mass": 13.634
+  },
+  "planets": [
+    {
+      "id": "planet_3238d8bc7261",
+      "name": "Don",
+      "summary": "Archive cluster around don: 42496 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "fucking",
+        "god",
+        "need",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2dc231139ffe",
+          "title": "Don receipt from 2024-07-01",
+          "excerpt": "hot take: for *most* people, knowing your own IQ is an infohazard https://t.co/TOYsWvtElg",
+          "source_document_id": "1807812549636936144",
+          "timestamp": "2024-07-01T16:24:34+00:00",
+          "url": "https://x.com/transkatgirl/status/1807812549636936144",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fucking, god, need."
+        },
+        {
+          "id": "art_731d18197eb2",
+          "title": "Don receipt from 2023-12-27",
+          "excerpt": "as someone who nearly implemented a QR code reader at one point: that’s not how it works lol https://t.co/cVEv3HBlvQ",
+          "source_document_id": "1739912954693480626",
+          "timestamp": "2023-12-27T07:35:49+00:00",
+          "url": "https://x.com/transkatgirl/status/1739912954693480626",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fucking, god, need."
+        },
+        {
+          "id": "art_b5f122319427",
+          "title": "Don receipt from 2024-06-02",
+          "excerpt": "@arithmoquine lmao it's real https://t.co/sRj8lYkw6v",
+          "source_document_id": "1797293702785925145",
+          "timestamp": "2024-06-02T15:46:25+00:00",
+          "url": "https://x.com/transkatgirl/status/1797293702785925145",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fucking, god, need."
+        },
+        {
+          "id": "art_5911a460ae90",
+          "title": "Don receipt from 2024-04-27",
+          "excerpt": "what the fuck https://t.co/z577Rri05U https://t.co/9rZ5UQi34b",
+          "source_document_id": "1784076103621263782",
+          "timestamp": "2024-04-27T04:24:24+00:00",
+          "url": "https://x.com/transkatgirl/status/1784076103621263782",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fucking, god, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_62ce1630c0c8",
+      "proof_score": 1,
+      "mass": 40.203,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_c32d7ef73a27",
+      "name": "Going",
+      "summary": "Archive cluster around going: 1740 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "going",
+        "now",
+        "feel",
+        "fucking",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_edd4a2dd53a7",
+          "title": "Going receipt from 2023-03-28",
+          "excerpt": "instead of installing a proper mood tracking app i’m just going to make a thread where i plot how i’m feeling on this several times a day https://t.co/ON66r0CwUd",
+          "source_document_id": "1640838732629835777",
+          "timestamp": "2023-03-28T22:10:13+00:00",
+          "url": "https://x.com/transkatgirl/status/1640838732629835777",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: going, now, feel, fucking."
+        },
+        {
+          "id": "art_8d494aa1760e",
+          "title": "Going receipt from 2024-07-28",
+          "excerpt": "going to try to mostly stay out of the tpot trans discourse, but i have one small thing to add:\n\nbeing forced to go through the wrong puberty is a horrible, traumatizing experience. listen to trans kids.\n\nhere’s my own story, for anyone who would like to hear it:",
+          "source_document_id": "1817580029330837735",
+          "timestamp": "2024-07-28T15:17:02+00:00",
+          "url": "https://x.com/transkatgirl/status/1817580029330837735",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: going, now, feel, fucking."
+        },
+        {
+          "id": "art_4c783e1ade97",
+          "title": "Going receipt from 2023-03-29",
+          "excerpt": "everything feels bleh\n\ni’m going to sleep now, i hope things will feel better in the morning https://t.co/xVkU8VwwXm",
+          "source_document_id": "1640947754745864192",
+          "timestamp": "2023-03-29T05:23:26+00:00",
+          "url": "https://x.com/transkatgirl/status/1640947754745864192",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: going, now, feel, fucking."
+        },
+        {
+          "id": "art_fbc5b5800ee0",
+          "title": "Going receipt from 2024-10-02",
+          "excerpt": "@LinkofSunshine going to do this but recreationally instead",
+          "source_document_id": "1841520381662015811",
+          "timestamp": "2024-10-02T16:47:27+00:00",
+          "url": "https://x.com/transkatgirl/status/1841520381662015811",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: going, now, feel, fucking."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_79aac5fc56a0",
+      "proof_score": 1,
+      "mass": 32.117,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_bc5f5cb28050",
+      "name": "Time",
+      "summary": "Archive cluster around time: 1631 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "first",
+        "now",
+        "same"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d4cd32dffa34",
+          "title": "Time receipt from 2023-12-25",
+          "excerpt": "&gt; tell mother that i’m overwhelmed and just need alone time\n&gt; she won’t leave me alone\n&gt; insist that i’m overwhelmed, it isn’t her fault, and i *need* her to leave me alone\n&gt; she won’t leave me alone\n\nwell i guess i’m never coming back here",
+          "source_document_id": "1739186918380945823",
+          "timestamp": "2023-12-25T07:30:48+00:00",
+          "url": "https://x.com/transkatgirl/status/1739186918380945823",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        },
+        {
+          "id": "art_647ef6f6f2b7",
+          "title": "Time receipt from 2023-07-05",
+          "excerpt": "oh i fucked up bad this time https://t.co/KY8AVZCTxD",
+          "source_document_id": "1676717265461596160",
+          "timestamp": "2023-07-05T22:18:42+00:00",
+          "url": "https://x.com/transkatgirl/status/1676717265461596160",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        },
+        {
+          "id": "art_a8c86c5da375",
+          "title": "Time receipt from 2025-02-19",
+          "excerpt": "fuck it\n\nfuck a girl you barely know\nmix meth and caffeine\nblow $1k on dumb shit\nimpulsively travel across the US\nsleep for 4 hours at a time\nlisten to the same songs 20 times in a row\nrun outside and feel the cold sting your skin\nsob and scream and laugh and dance https://t.co/QUarpMLdG2",
+          "source_document_id": "1892132808258183584",
+          "timestamp": "2025-02-19T08:43:10+00:00",
+          "url": "https://x.com/transkatgirl/status/1892132808258183584",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        },
+        {
+          "id": "art_c38e5f1b2dcf",
+          "title": "Time receipt from 2024-02-15",
+          "excerpt": "that was an uncomfortable time. after a long conversation, i played along and promised her another chance. i guess this wasn't my first time dealing with an abusive living situation.\n\nbut i was still planning on leaving. and one night, a week later, i succeeded.",
+          "source_document_id": "1757995340777902474",
+          "timestamp": "2024-02-15T05:08:45+00:00",
+          "url": "https://x.com/transkatgirl/status/1757995340777902474",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_46f28c215097",
+      "proof_score": 1,
+      "mass": 31.834,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_73a3e1b00f6c",
+      "name": "Now",
+      "summary": "Archive cluster around now: 1484 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "now",
+        "right",
+        "think",
+        "feel",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_db148ac377c1",
+          "title": "Now receipt from 2023-03-28",
+          "excerpt": "here’s right now: https://t.co/FIIYcCJuhe",
+          "source_document_id": "1640838736589254658",
+          "timestamp": "2023-03-28T22:10:14+00:00",
+          "url": "https://x.com/transkatgirl/status/1640838736589254658",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, think, feel."
+        },
+        {
+          "id": "art_e04b67b446a0",
+          "title": "Now receipt from 2023-03-31",
+          "excerpt": "so i’ve been using the mood tracking app i made for like the past 2 days now, and i have to say, it’s kinda interesting\n\ni need to work on implementing more/better ways to graph the data https://t.co/BVqR187SSL",
+          "source_document_id": "1641921923310571520",
+          "timestamp": "2023-03-31T21:54:26+00:00",
+          "url": "https://x.com/transkatgirl/status/1641921923310571520",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, think, feel."
+        },
+        {
+          "id": "art_58c65e034066",
+          "title": "Now receipt from 2023-09-01",
+          "excerpt": "holy shit, i drastically underestimated how helpful cuddling is\n\nmy pain and fatigue is basically gone now, and i feel way better mentally",
+          "source_document_id": "1697422220069634253",
+          "timestamp": "2023-09-01T01:32:48+00:00",
+          "url": "https://x.com/transkatgirl/status/1697422220069634253",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, think, feel."
+        },
+        {
+          "id": "art_20e0459422ae",
+          "title": "Now receipt from 2024-02-15",
+          "excerpt": "i hope this provides a bit more context to those \"i tried heroin and now i'm addicted to it\" type of posts on the internet.\n\ni wouldn't recommend needlessly trying strong opioids, they are very addictive. but, in those types of stories, there's more than just the drug at play.",
+          "source_document_id": "1757995346800845183",
+          "timestamp": "2024-02-15T05:08:47+00:00",
+          "url": "https://x.com/transkatgirl/status/1757995346800845183",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, think, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5fd726c7ffe0",
+      "proof_score": 1,
+      "mass": 31.296,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_3908b323edae",
+      "name": "Think",
+      "summary": "Archive cluster around think: 1222 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "should",
+        "really",
+        "actually",
+        "might"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8ebd07098e1d",
+          "title": "Think receipt from 2024-02-22",
+          "excerpt": "okay i think i just fell in love with a trans girl i met over the internet",
+          "source_document_id": "1760608148191432971",
+          "timestamp": "2024-02-22T10:11:07+00:00",
+          "url": "https://x.com/transkatgirl/status/1760608148191432971",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, really, actually."
+        },
+        {
+          "id": "art_8f9d62ec94e2",
+          "title": "Think receipt from 2025-10-15",
+          "excerpt": "so, it looks like consuming five servings of huel black per day results in a dietary lead exposure that is *average* for a 120 lb person in the EU (in 2010)\n\nyeah i think this whole thing might be slightly overblown https://t.co/q0Pb5pZi0d",
+          "source_document_id": "1978360333971472622",
+          "timestamp": "2025-10-15T07:20:34+00:00",
+          "url": "https://x.com/transkatgirl/status/1978360333971472622",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, really, actually."
+        },
+        {
+          "id": "art_a67461526bb8",
+          "title": "Think receipt from 2023-03-29",
+          "excerpt": "i think i’ll also include this version of the chart in the app https://t.co/mUMR6923lx",
+          "source_document_id": "1641212464313548800",
+          "timestamp": "2023-03-29T22:55:18+00:00",
+          "url": "https://x.com/transkatgirl/status/1641212464313548800",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, really, actually."
+        },
+        {
+          "id": "art_a0c811cef5e3",
+          "title": "Think receipt from 2023-03-29",
+          "excerpt": "very tired and comfy rn\n\ni think i might do some reading and then fall asleep\n\ni feel very at ease and relaxed, and it’s nice~ https://t.co/JMxZYJaETh",
+          "source_document_id": "1640916089138995201",
+          "timestamp": "2023-03-29T03:17:37+00:00",
+          "url": "https://x.com/transkatgirl/status/1640916089138995201",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, really, actually."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2c18790a9f42",
+      "proof_score": 1,
+      "mass": 30.789,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_a009284a1882",
+      "name": "Really",
+      "summary": "Archive cluster around really: 1066 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "god",
+        "fucking",
+        "good",
+        "feel"
+      ],
+      "artifacts": [
+        {
+          "id": "art_211a0972edbd",
+          "title": "Really receipt from 2023-12-27",
+          "excerpt": "everyone acts like they’re some sort of mythical creature, when they’re really just fucking text written in a manner that’s easily computer readable",
+          "source_document_id": "1739912972338966796",
+          "timestamp": "2023-12-27T07:35:53+00:00",
+          "url": "https://x.com/transkatgirl/status/1739912972338966796",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, god, fucking, good."
+        },
+        {
+          "id": "art_b736a0286466",
+          "title": "Really receipt from 2024-02-15",
+          "excerpt": "after running away from my parents, i ended up in what would become an abusive relationship. \n\ni was really bpd and kept changing my mind on whether or not i wanted to be in the relationship, while my partner was really bpd as well and *needed* comfort that i wouldn't leave her.",
+          "source_document_id": "1757995321370747270",
+          "timestamp": "2024-02-15T05:08:41+00:00",
+          "url": "https://x.com/transkatgirl/status/1757995321370747270",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, god, fucking, good."
+        },
+        {
+          "id": "art_e28d5e38e28e",
+          "title": "Really receipt from 2024-07-27",
+          "excerpt": "okay i actually really like the ominous ones https://t.co/AmzRItraUZ",
+          "source_document_id": "1817037025763295438",
+          "timestamp": "2024-07-27T03:19:20+00:00",
+          "url": "https://x.com/transkatgirl/status/1817037025763295438",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, god, fucking, good."
+        },
+        {
+          "id": "art_cc11f647f851",
+          "title": "Really receipt from 2024-07-27",
+          "excerpt": "rust really is the trans girl programming language, huh",
+          "source_document_id": "1817038752948322550",
+          "timestamp": "2024-07-27T03:26:12+00:00",
+          "url": "https://x.com/transkatgirl/status/1817038752948322550",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, god, fucking, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c4296b626ee0",
+      "proof_score": 1,
+      "mass": 30.442,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
